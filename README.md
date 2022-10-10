@@ -9,7 +9,7 @@ A simple Note Application built in Jetpack compose for adding and editing notes 
 6. kotlinx.coroutines - Library Support for coroutines
 7. Hilt - Used for Dependency injection
 8. Coil - Allows for fetching and displaying of images in the composables
-9. Canvas for 
+9. Canvas for drawing an styling the cards
 10. JUnit & and esspreso for UI testing, Unit Testing and End-to-End
 
 # Screen Shorts
